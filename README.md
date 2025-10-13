@@ -1,36 +1,109 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# CNN Tutorial Instructional Website
 
-## Getting Started
+A comprehensive instructional website for learning how to build and visualize Convolutional Neural Networks (CNNs) from scratch using TensorFlow.js and the MNIST dataset.
 
-First, run the development server:
+## 🎯 Project Overview
+
+This website was created for the ENCS 282 Assignment 3, providing step-by-step instructions for building and understanding CNNs. The tutorial includes interactive demonstrations, live training visualizations, and comprehensive explanations of CNN architecture.
+
+## 🚀 Live Demo
+
+**[View the live website here](https://YOUR_USERNAME.github.io/cnn-tutorial-website/)**
+
+## 📚 Tutorial Structure
+
+### 1. **Introduction**
+- Overview of CNNs and their applications
+- Scope and learning objectives
+- Target audience and prerequisites
+
+### 2. **Getting Started**
+- Warnings and safety considerations
+- Equipment and software requirements
+- Environment setup instructions
+
+### 3. **Step-by-Step Tutorial**
+- **Step 1:** Understanding CNN Architecture
+- **Step 2:** Preparing MNIST Dataset
+- **Step 3:** Building the CNN Model
+- **Step 4:** Training the Model
+- **Step 5:** Visualizing Results
+
+### 4. **References**
+- Academic citations and resources
+- Additional learning materials
+- Troubleshooting guide
+
+## 🛠️ Technical Features
+
+- **Interactive Training:** Live CNN training with real-time progress visualization
+- **Code Examples:** Syntax-highlighted code blocks with explanations
+- **Warning System:** Color-coded information boxes for different types of content
+- **Responsive Design:** Works seamlessly on desktop, tablet, and mobile devices
+- **Modern UI:** Clean, professional design with smooth animations
+
+## 🏗️ Built With
+
+- **Next.js 15** - React framework for production
+- **TypeScript** - Type-safe JavaScript
+- **Tailwind CSS** - Utility-first CSS framework
+- **TensorFlow.js** - Machine learning in the browser
+- **Lucide React** - Beautiful icon library
+
+## 📋 Assignment Requirements
+
+This project fulfills all ENCS 282 Assignment 3 requirements:
+
+- ✅ Clear introduction with scope definition
+- ✅ Warnings, cautions, and safety notices
+- ✅ Complete equipment and supplies list
+- ✅ Step-by-step instructions in logical order
+- ✅ Expected results for each step
+- ✅ Explanations of why each step matters
+- ✅ Variety of graphics and interactive elements
+- ✅ Direct, conversational tone with imperative verbs
+- ✅ IEEE-formatted references
+
+## 🚀 Getting Started Locally
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/cnn-tutorial-website.git
+   cd cnn-tutorial-website
+   ```
+
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+
+3. **Run the development server:**
+   ```bash
+   npm run dev
+   ```
+
+4. **Open your browser:**
+   Navigate to `http://localhost:3000`
+
+## 📦 Build for Production
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm run build
+npm run export
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🤝 Contributing
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+This project was created for educational purposes. Feel free to fork and modify for your own learning!
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📄 License
 
-## Learn More
+This project is open source and available under the [MIT License](LICENSE).
 
-To learn more about Next.js, take a look at the following resources:
+## 👨‍💻 Author
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Created for ENCS 282 Assignment 3 - Technical Communication
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+**Note:** Replace `YOUR_USERNAME` with your actual GitHub username in the live demo link above.
