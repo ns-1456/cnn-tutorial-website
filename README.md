@@ -8,7 +8,7 @@ This website was created for the ENCS 282 Assignment 3, providing step-by-step i
 
 ## 🚀 Live Demo
 
-**[View the live website here](https://YOUR_USERNAME.github.io/cnn-tutorial-website/)**
+**[View the live website here](https://ns-1456.github.io/cnn-tutorial-website/)**
 
 ## 📚 Tutorial Structure
 
@@ -68,7 +68,7 @@ This project fulfills all ENCS 282 Assignment 3 requirements:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/cnn-tutorial-website.git
+   git clone https://github.com/ns-1456/cnn-tutorial-website.git
    cd cnn-tutorial-website
    ```
 
@@ -106,4 +106,4 @@ Created for ENCS 282 Assignment 3 - Technical Communication
 
 ---
 
-**Note:** Replace `YOUR_USERNAME` with your actual GitHub username in the live demo link above.
+**Live Website:** https://ns-1456.github.io/cnn-tutorial-website/
